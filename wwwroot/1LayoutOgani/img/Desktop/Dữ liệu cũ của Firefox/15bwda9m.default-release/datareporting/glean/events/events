@@ -1,0 +1,9 @@
+{"timestamp":0,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":547,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"disabled"}}
+{"timestamp":962,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":31290,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":101324,"category":"addons_manager","name":"manage","extra":{"source":"gmp-plugin","method":"uninstall","addon_type":"other","addon_id":"gmp-gmpopenh264"}}
+{"timestamp":107114,"category":"addons_manager","name":"manage","extra":{"source":"distribution","addon_id":"abb-acer@amazon.com","addon_type":"extension","method":"disable"}}
+{"timestamp":107217,"category":"addons_manager","name":"manage","extra":{"source":"distribution","method":"enable","addon_type":"extension","addon_id":"abb-acer@amazon.com"}}
+{"timestamp":113305,"category":"addons_manager","name":"manage","extra":{"method":"uninstall","addon_id":"gmp-widevinecdm","addon_type":"other","source":"gmp-plugin"}}
+{"timestamp":461142,"category":"addons_manager","name":"manage","extra":{"addon_type":"extension","addon_id":"amazondotcom@search.mozilla.org","method":"uninstall"}}

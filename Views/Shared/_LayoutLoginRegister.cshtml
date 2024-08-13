@@ -1,0 +1,91 @@
+﻿
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login & Register</title>
+    <link rel="stylesheet" href="../1LayoutOgani/css/styleRegister.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="back-button">
+        <a href="/Home/Index">&#9664; Back</a>
+    </div>
+  <div class="container">
+        <div class="wrapper login">
+            <form method="post" asp-action="LoginPost" asp-controller="Account">
+                <h1>Login User</h1>
+                <div class="input-box">
+                    <input type="text" name="UserName" placeholder="Username" required>
+                    <i class='bx bx-user'></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" name="Password" placeholder="Password" required>
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+                <div class="remember-forgot">
+                    <label><input type="checkbox"> Remember me</label>
+                    <a href="#">Forgot password?</a>
+                </div>
+                <button type="submit" class="btn">Login</button>
+                <div class="register-link">
+                    <p>
+                        Don't have an account? <a href="#" id="showRegister">Register</a>
+                    </p>
+                </div>
+            </form>
+
+        </div>
+
+        <div class="wrapper register">
+            <form method="post" asp-action="RegisterPost" asp-controller="Account">
+                <h1>Register User</h1>
+                <div class="input-box">
+                    <input type="text" name="UserName" placeholder="Username" required>
+                    <i class='bx bx-user'></i>
+                </div>
+                <div class="input-box">
+                    <input type="email" name="Email" placeholder="Email" required>
+                    <i class='bx bx-envelope'></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" name="Password" placeholder="Password" required>
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" name="ConfirmPassword" placeholder="Confirm Password" required>
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+                <button type="submit" class="btn">Register</button>
+                <div class="register-link">
+                    <p>
+                        Already have an account? <a href="#" id="showLogin">Login</a>
+                    </p>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('showRegister').addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector('.login').style.display = 'none';
+            document.querySelector('.register').style.display = 'block';
+        });
+
+        document.getElementById('showLogin').addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector('.register').style.display = 'none';
+            document.querySelector('.login').style.display = 'block';
+        });
+
+        document.querySelector('.register').style.display = 'none';
+    </script>
+</body>
+</html>

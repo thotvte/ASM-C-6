@@ -1,0 +1,69 @@
+﻿@model IEnumerable<web_ban_do_an.Models.Products>
+
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shader/_LayoutAdmin.cshtml";
+}
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h1>Danh mục sản phẩm</h1>
+
+<p>
+    <a asp-action="ThemSanPhamMoi">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Thông tin thêm
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th>
+                Tên ảnh
+            </th>
+            <th>
+                Ngày đăng
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imageUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.createdAt)
+            </td>
+            <td>
+                <a asp-action="SuaSanPham" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="XoaSanPham" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

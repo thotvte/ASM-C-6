@@ -1,0 +1,12 @@
+khi clone 1 dự án về 
+cần phải có npm i để cài đặt thực thi các thư viện mà dự án đả cài vào máy mình 
+
+sau đó từ dự án đó chúng ta sẽ rẻ nhánh git remove -v tennhanh 
+để thực thi chức năng của dự án đó ....
+sau khi xong thì sẽ
+git status 
+git add .
+git commit -m ''
+git push origin main tên nhanh ....
+
+xao thu vien da cai dat npm remove @...

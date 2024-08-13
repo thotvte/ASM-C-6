@@ -1,0 +1,2113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\web-ban-do-an.bundle.scp.css",
+      "PackagePath": "staticwebassets\\web-ban-do-an.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\style.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\style.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\css\\styleRegister.css",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\css\\styleRegister.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Cốc Cốc.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Cốc Cốc.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Downloads - Shortcut.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Downloads - Shortcut.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\AlternateServices.bin",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\AlternateServices.bin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\AlternateServices.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\AlternateServices.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\ExperimentStoreData.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\ExperimentStoreData.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\SiteSecurityServiceState.bin",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\SiteSecurityServiceState.bin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\SiteSecurityServiceState.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\SiteSecurityServiceState.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\addonStartup.json.lz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\addonStartup.json.lz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\addons.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\addons.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\bookmarkbackups\\bookmarks-2024-01-23_12_sYYE1Zxdf1veaNQaTJ4VUQ==.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\bookmarkbackups\\bookmarks-2024-01-23_12_sYYE1Zxdf1veaNQaTJ4VUQ==.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\broadcast-listeners.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\broadcast-listeners.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cert9.db",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cert9.db"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\compatibility.ini",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\compatibility.ini"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\containers.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\containers.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\content-prefs.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\content-prefs.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cookies.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cookies.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cookies.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\cookies.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\crashes\\store.json.mozlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\crashes\\store.json.mozlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705936822622.99aa6e82-1a10-4b52-afa0-702b96e880ef.update.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705936822622.99aa6e82-1a10-4b52-afa0-702b96e880ef.update.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937030442.51f76b3a-c223-47e4-964c-30f64a615cc7.main.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937030442.51f76b3a-c223-47e4-964c-30f64a615cc7.main.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937267798.a03e1724-3739-4ef2-90c8-196ce7c0ccb2.third-party-modules.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937267798.a03e1724-3739-4ef2-90c8-196ce7c0ccb2.third-party-modules.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937749229.ac745643-d6bb-40a1-a08b-a603aefab3f6.modules.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705937749229.ac745643-d6bb-40a1-a08b-a603aefab3f6.modules.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705940297975.e8ddf89c-124d-48e5-9f64-5eff62dbb6f0.event.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705940297975.e8ddf89c-124d-48e5-9f64-5eff62dbb6f0.event.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705943020452.ef794781-1365-44ec-82c0-7eb4361f5af4.main.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705943020452.ef794781-1365-44ec-82c0-7eb4361f5af4.main.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705945787538.1943e05a-73c3-4038-93c2-5f093c73d5c4.main.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1705945787538.1943e05a-73c3-4038-93c2-5f093c73d5c4.main.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159342318.67073291-f322-491e-8407-a6c4de9f3258.update.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159342318.67073291-f322-491e-8407-a6c4de9f3258.update.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360362.560d480d-4f91-4733-a22a-a47c5b714cd4.health.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360362.560d480d-4f91-4733-a22a-a47c5b714cd4.health.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360391.a9b71f64-2e13-42a1-be64-c62290e93bbd.event.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360391.a9b71f64-2e13-42a1-be64-c62290e93bbd.event.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360392.a62bb161-65e2-4a6f-a45d-ee7f45041ba3.health.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360392.a62bb161-65e2-4a6f-a45d-ee7f45041ba3.health.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360410.ac8d31b0-5ce9-4dae-b1b0-da5b4e82305f.main.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-01\\1706159360410.ac8d31b0-5ce9-4dae-b1b0-da5b4e82305f.main.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708421923049.bd77871a-ef71-41ef-b903-02e3c39fefc1.health.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708421923049.bd77871a-ef71-41ef-b903-02e3c39fefc1.health.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467736.502f5a27-8428-4d4f-821b-a9d14ecec5bb.event.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467736.502f5a27-8428-4d4f-821b-a9d14ecec5bb.event.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467743.17662774-69d8-4e64-994c-7c1d9b02cd0b.health.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467743.17662774-69d8-4e64-994c-7c1d9b02cd0b.health.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467770.9ccbf986-f693-4a9a-a0ac-780e529052ec.main.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\archived\\2024-02\\1708422467770.9ccbf986-f693-4a9a-a0ac-780e529052ec.main.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\db\\data.safe.bin",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\db\\data.safe.bin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\events\\background-update",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\events"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\events\\events",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\events"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\0848f65b-1ba0-41df-9ec4-2ecc6076547c",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\0a65d44c-c4c5-4112-9411-d0d9d04cd8ff",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\42080184-edaa-492a-9d06-7ddc88d456bb",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\4bf34987-d37c-4979-982e-0659cbb0bc85",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\6aee3f5a-db4a-42e7-83a2-2b010f425d23",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\724a32b8-aa24-4fe8-8aff-17f4ed7939ea",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\bb221cf0-1702-480b-b561-a704208bcda2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\c695a405-e4c2-4eda-a603-4311e5246eef",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\c6d91480-6e6b-4ee4-bacd-97651fffc512",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\db83430e-1412-4f6c-a3b3-4ab99400a9cc",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings\\eeee32cd-6e03-43ae-b769-5393cd8baa55",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\glean\\pending_pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\session-state.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\session-state.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\state.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\datareporting\\state.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extension-preferences.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extension-preferences.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions\\abb-acer@amazon.com.xpi",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions\\abb-acer@amazon.com.xpi"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions\\langpack-en-US@firefox.mozilla.org.xpi",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\extensions\\langpack-en-US@firefox.mozilla.org.xpi"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\favicons.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\formhistory.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\formhistory.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-gmpopenh264\\2.3.2\\gmpopenh264.dll",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-gmpopenh264\\2.3.2\\gmpopenh264.dll"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-gmpopenh264\\2.3.2\\gmpopenh264.info",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-gmpopenh264\\2.3.2\\gmpopenh264.info"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\manifest.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\manifest.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll.lib",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll.lib"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll.sig",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\gmp-widevinecdm\\4.10.2710.0\\widevinecdm.dll.sig"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\handlers.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\handlers.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\key4.db",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\key4.db"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\parent.lock",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\parent.lock"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\permissions.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\permissions.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\pkcs11.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\pkcs11.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\places.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\places.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\places.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\places.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\prefs.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\prefs.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\protections.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\protections.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings\\17662774-69d8-4e64-994c-7c1d9b02cd0b",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings\\502f5a27-8428-4d4f-821b-a9d14ecec5bb",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings\\9ccbf986-f693-4a9a-a0ac-780e529052ec",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\saved-telemetry-pings"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\search.json.mozlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\search.json.mozlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\security_state\\data.safe.bin",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\security_state\\data.safe.bin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionCheckpoints.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionCheckpoints.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\previous.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\previous.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\recovery.baklz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\recovery.baklz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\recovery.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\recovery.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\upgrade.jsonlz4-20210415204500",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\upgrade.jsonlz4-20210415204500"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\upgrade.jsonlz4-20240108143603",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore-backups\\upgrade.jsonlz4-20240108143603"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore.jsonlz4",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\sessionstore.jsonlz4"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\settings\\data.safe.bin",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\settings\\data.safe.bin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\133031003b05efeb",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\267a3b6ede11dbfd",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\2698fa8daeee25e9",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\2fcd88affaa9f9db",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\3ed5cb69c5cebdd7",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\47066db0f2df04a9",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\55b5903c7226d13c",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\5b9e4b854ff2a978",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\5cf342d406e9c945",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\5e4729e80cf87b78",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\63bc5c1a6bd9a2d2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\7b65852efd686d2b",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\7d318c09505c750f",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\83a8b33fea5dfbdc",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\87b4454f8148c7b9",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\88d676ff694a5596",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\9f93776a62a8c1bd",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\a1a403010e7a1a98",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\a5125c0fa62c05d",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\c7c4a490c2b1dcff",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\c8c4d116645fa880",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\c9b7735c278092ff",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\ccf4c227d20e6a29",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\d4420468d4b553a5",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\e38703f6029ac621",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\e558e5cafe68b242",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\f56723cce8b446da",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\fbce0ab4c77ffd0b",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache\\startup_shaders",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shader-cache"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shield-preference-experiments.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\shield-preference-experiments.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage-sync-v2.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\.metadata-v2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\.metadata-v2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\cache\\.padding",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\cache\\.padding"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\cache\\caches.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\cache\\caches.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\1389742157LCo7g%sCD7a%t9a2bbaas.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\1389742157LCo7g%sCD7a%t9a2bbaas.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\2171031483YattIedMb.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\2171031483YattIedMb.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\2232182701SeesravbiacteaWDosrgk.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\https+++www.youtube.com\\idb\\2232182701SeesravbiacteaWDosrgk.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\.metadata-v2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\.metadata-v2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++18dc2774-b273-4ccc-b3c3-a9a0384d963b^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++30167498-bcb7-46af-a44d-2c25a81ee61a^userContextId=4294967295\\.metadata-v2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++30167498-bcb7-46af-a44d-2c25a81ee61a^userContextId=4294967295\\.metadata-v2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++30167498-bcb7-46af-a44d-2c25a81ee61a^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\default\\moz-extension+++30167498-bcb7-46af-a44d-2c25a81ee61a^userContextId=4294967295\\idb\\3647222921wleabcEoxlt-eengsairo.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive-tmp.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive-tmp.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive-tmp.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive-tmp.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\ls-archive.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\.metadata-v2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\.metadata-v2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1451318868ntouromlalnodry--epcr.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\1657114595AmcateirvtiSty.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3561288849sdhlie.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.files\\2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.files"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\permanent\\chrome\\idb\\3870112724rsegmnoittet-es.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\.metadata-v2",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\.metadata-v2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\08d43055-b6a6-47ef-a517-dd32bb4eb8f1.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\24fb3a39-6112-4fe2-b4d6-88125e0b2787.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\41d956cc-f1e9-4cce-aa2e-5e98da280052.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\49b30ae5-4e59-44ec-80bc-0bf9fde97144.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\85fdcecb-0ea2-4750-8a68-deb7ba2915ba.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c010907c-5bca-4ef7-baa7-52cccdf4913f.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\c721890e-6706-4558-846d-5e5e777ba003.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\storage\\private\\uuid+++b1244869-637c-4ef1-9b54-8db78c381224\\idb\\e650f898-2736-44f8-a4f3-0a1656baabf9.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\targeting.snapshot.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\targeting.snapshot.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\times.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\times.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite-shm",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite-shm"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite-wal",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\webappsstore.sqlite-wal"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\xulstore.json",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Dữ liệu cũ của Firefox\\15bwda9m.default-release\\xulstore.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Microsoft Edge.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Microsoft Edge.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Postman.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Postman.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Truong Van Tho (fpt.edu.vn) - Chrome.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Truong Van Tho (fpt.edu.vn) - Chrome.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\UniKeyNT.exe",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\UniKeyNT.exe"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Word.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Word.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\Zalo.lnk",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\Zalo.lnk"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\desktop.ini",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\desktop.ini"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Desktop\\uk_process_state.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Desktop\\uk_process_state.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\- khai báo Entity.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\- khai báo Entity.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\applicationhost.config",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\applicationhost.config"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\aspnet.config",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\aspnet.config"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\redirection.config",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\IISExpress\\config\\redirection.config"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\buooi hoc 912024.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\buooi hoc 912024.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\desktop.ini",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\desktop.ini"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\hosts.txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\hosts.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\Documents\\khi clone 1 dự án về .txt",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\Documents\\khi clone 1 dự án về .txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\cachua.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\cachua.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\cam.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\cam.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\dau.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\dau.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\hero\\2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\hero\\2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\hero\\3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\hero\\3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\hero\\4.png",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\hero\\4.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\hero\\bannerdoan.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\hero\\bannerdoan.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\imglogin\\login.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\imglogin\\login.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\imglogin\\register.webp",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\imglogin\\register.webp"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\language.png",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\language.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\logo.png",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\logobento.png",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\logobento.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\main.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\main.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\1LayoutOgani\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\1LayoutOgani\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\imageProduct\\login.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\login.jpg"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\imageProduct\\logobento.png",
+      "PackagePath": "staticwebassets\\imageProduct\\logobento.png"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\imageProduct\\register.webp",
+      "PackagePath": "staticwebassets\\imageProduct\\register.webp"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#6\\web-ban-do-an\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web-ban-do-an.props",
+      "PackagePath": "build\\web-ban-do-an.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.web-ban-do-an.props",
+      "PackagePath": "buildMultiTargeting\\web-ban-do-an.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.web-ban-do-an.props",
+      "PackagePath": "buildTransitive\\web-ban-do-an.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web-ban-do-an.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+- khai báo Entity
+typeorm migration:create ./path-to-migrations-dir/PostRefactoring
+
+npm install typeorm @nestjs/config dotenv
+npm i -S @ltv/enve
+- khai báo DataSource
+env 
+env example
+biến môi trường 
+...
+>>>
+tạo forder database
+npx typeorm-ts-node-commonjs migration:run -d src/database/data-source.ts
+npx typeorm-ts-node-commonjs migration:run -d src/database/data-source.ts
+ npm install dotenv // cài thư viện để viên dịch
+  

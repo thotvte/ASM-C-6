@@ -1,0 +1,47 @@
+"author": 0
+"description": 0
+"keywords": 0
+"license": 0
+"main": 0
+"name": 0
+"scripts": 0
+"test": 0
+"version": 0
+02/18/2022  02: 0
+09/30/2023  11: 0
+09/30/2023  12: 0
+10/01/2023  04: 0
+10/04/2023  09: 0
+10/04/2023  10: 0
+10/07/2023  06: 0
+10/15/2023  03: 0
+10/15/2023  04: 0
+11/01/2023  09: 0
+11/09/2023  03: 0
+11/11/2023  10: 0
+11/18/2023  10: 0
+11/20/2023  03: 0
+11/21/2023  06: 0
+11/21/2023  07: 0
+2023-11-21T12: 0
+C: 0
+D: 0
+Directory of C: 0
+Directory of D: 0
+Usage: 0
+Wrote to D: 0
+https: 0
+nvm [--]version: 0
+nvm arch: 0
+nvm current: 0
+nvm debug: 0
+nvm install <version> [arch]: 0
+nvm list [available]: 0
+nvm node_mirror [url]: 0
+nvm npm_mirror [url]: 0
+nvm off: 0
+nvm on: 0
+nvm proxy [url]: 0
+nvm root [path]: 0
+nvm uninstall <version>: 0
+nvm use [version] [arch]: 0

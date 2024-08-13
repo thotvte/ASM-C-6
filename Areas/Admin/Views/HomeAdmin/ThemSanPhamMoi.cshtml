@@ -1,0 +1,57 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model web_ban_do_an.Models.Products
+
+@{
+    ViewData["Title"] = "ThemSanPhamMoi";
+    Layout = "~/Areas/Admin/Views/Shader/_LayoutAdmin.cshtml";
+}
+
+<h1>ThemSanPhamMoi</h1>
+
+<h4>Products</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="ThemSanPhamMoi">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" type="string" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" type="decimal" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" type="string" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="status" type="number" class="control-label"></label>
+                <input asp-for="status" class="form-control" />
+                <span asp-validation-for="status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="imageUrl" class="control-label"></label>
+                <input asp-for="imageUrl" class="form-control" />
+                <span asp-validation-for="imageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="createdAt" class="control-label"></label>
+                <input asp-for="createdAt" class="form-control" />
+                <span asp-validation-for="createdAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
